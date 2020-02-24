@@ -2,4 +2,4 @@ tox>=2.0.0
 pylint>=2.2.2
 twine>=1.13.0
 yapf==0.28.0
-pre-commit==1.14.4
+pre-commit==2.1.1
